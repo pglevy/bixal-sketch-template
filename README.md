@@ -52,6 +52,8 @@ Note that the bits have their own text symbols. They can pretty easily be update
 
 ### Icons
 
+The icons in this project were downloaded from the Material Theme Editor Sketch plug-in from Google. Use the plug-in to download updated versions or varitations. You can also a different svg-based icon library.
+
 To use a different icon library:
 
 1. Add the new file as a Library in Sketch.
