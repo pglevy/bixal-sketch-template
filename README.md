@@ -4,10 +4,8 @@ The purpose of this project is to provide a convenient starting point for new pr
 
 ## Installation
 
-(preliminary)
-
 1. Download the zip from this repo.
-2. Before opening the Sketch files, add both the Bixal Design and Icons files as Libraries in your Sketch Preferences.
+2. Before opening the Sketch files, add the Icons file as a Library in your Sketch Preferences.
 3. Open the Bixal Design file and select 'Save as Template' from the Sketch File menu. (This will create a copy of the file in a special location.)
 
 ## Usage (New Project)
@@ -26,6 +24,7 @@ The purpose of this project is to provide a convenient starting point for new pr
 
 * To use the grids, copy and paste them from the Style page instead of adding them from the Symbols menu. That way the Grid and Layout settings for the artboard will already by set up.
 * For type variations, just start with the size and color you want, and make changes from there. If you want, you can save the variation as a new style, but I didn't want to clutter the template with every possible variation.
+* Add the Bixal Design file as a Library to make the symbols available in existing files.
 
 ## Making Changes to the Template
 
@@ -50,4 +49,12 @@ To make change to the typography:
 4. Re-save the edited as a template to create new files from this version.
 
 Note that the bits have their own text symbols. They can pretty easily be updated in bulk. Just select the text layers on the Symbols page to make chages.
+
+### Icons
+
+To use a different icon library:
+
+1. Add the new file as a Library in Sketch.
+2. Use the symbol overrides in your symbols to point to the new file.
+3. Resave the template to use the new icons in future new files.
 
