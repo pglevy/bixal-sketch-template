@@ -16,8 +16,8 @@ The purpose of this project is to provide a convenient starting point for new pr
 
 ## Usage (Existing Project)
 
-1. Use the Sketch Palettes plug-in to import the included sketch palette to make the color palette more easily available in the existing file.
-2. Use the the Shared Text Styles plug-in to import the text styles. (This may no longer be necessary with the new Sketch version.)
+1. Use the [Sketch Palettes](https://github.com/andrewfiorillo/sketch-palettes) plug-in to import the included sketch palette to make the color palette more easily available in the existing file.
+2. Use the the [Shared Text Styles](https://github.com/nilshoenson/shared-text-styles) plug-in to import the text styles. (This may no longer be necessary with the new Sketch version.)
 3. Copy and paste stickers from a file created from the Bixal Design template, or insert new bit using the Insert (Symbols) / Bixal Design menu.
 
 ## Tips
@@ -53,11 +53,10 @@ Note that the bits have their own text symbols. They can pretty easily be update
 
 ### Icons
 
-The icons in this project were downloaded from the Material Theme Editor Sketch plug-in from Google. Use the plug-in to download updated versions or varitations. You can also a different svg-based icon library.
+The icons in this project were downloaded from the [Material Theme Editor](https://material.io/tools/theme-editor/) Sketch plug-in from Google. Use the plug-in to download updated versions or varitations. You can also a different svg-based icon library.
 
 To use a different icon library:
 
 1. Add the new file as a Library in Sketch.
 2. Use the symbol overrides in your symbols to point to the new file.
 3. Re-save the template to use the new icons in future new files.
-
