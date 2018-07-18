@@ -5,6 +5,7 @@ The purpose of this project is to provide a convenient starting point for new pr
 ## Installation
 
 1. Download the zip from this repo.
+2. Download and install the [San Francisco typeface](https://developer.apple.com/fonts/).
 2. Before opening the Sketch files, add the Icons file as a Library in your Sketch Preferences.
 3. Open the Bixal Design file and select 'Save as Template' from the Sketch File menu. (This will create a copy of the file in a special location.)
 
