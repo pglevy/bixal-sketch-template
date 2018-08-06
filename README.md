@@ -18,7 +18,7 @@ The purpose of this project is to provide a convenient starting point for new pr
 ## Usage (Existing Project)
 
 1. Use the [Sketch Palettes](https://github.com/andrewfiorillo/sketch-palettes) plug-in to import the included sketch palette to make the color palette more easily available in the existing file.
-2. Use the the [Shared Text Styles](https://github.com/nilshoenson/shared-text-styles) plug-in to import the text styles. (This may no longer be necessary with the new Sketch version.)
+2. As of Sketch 51, Text Styles are included in Libraries and available in all your files. Alternatively, you can use the [Shared Text Styles](https://github.com/nilshoenson/shared-text-styles) plug-in to import text styles.
 3. Copy and paste stickers from a file created from the Bixal Design template, or insert new bit using the Insert (Symbols) / Bixal Design menu.
 
 ## Tips
